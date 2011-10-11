@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: mpttadmin
+Version: 0.3.1
+Summary: jstree admin for mptt models
+Home-page: http://code.tabed.org/mptt_admin
+Author: Mikhail Sakhno
+Author-email: pawn13@gmail.com
+License: BSD
+Description: UNKNOWN
+Keywords: django admin
+Platform: POSIX
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development

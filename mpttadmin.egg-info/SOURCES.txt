@@ -1,0 +1,6 @@
+mpttadmin/__init__.py
+mpttadmin.egg-info/PKG-INFO
+mpttadmin.egg-info/SOURCES.txt
+mpttadmin.egg-info/dependency_links.txt
+mpttadmin.egg-info/requires.txt
+mpttadmin.egg-info/top_level.txt
